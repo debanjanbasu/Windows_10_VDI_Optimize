@@ -78,12 +78,6 @@
     "Description": "(Microsoft Pay) for Edge browswer on certain devices"
   },
   {
-    "AppxPackage": "Microsoft.Windows.Photos",
-    "VDIState": "Disabled",
-    "URL": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4",
-    "Description": "Photo and video editor"
-  },
-  {
     "AppxPackage": "Microsoft.WindowsAlarms",
     "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/windows-alarms-clock/9wzdncrfj3pr",
