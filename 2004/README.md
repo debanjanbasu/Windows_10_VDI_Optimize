@@ -25,7 +25,7 @@ NOTE: This script now takes just a few minutes to complete on the reference (gol
 3. Start PowerShell elevated
 4. In PowerShell, change directory to the scripts folder (ex. C:\Optimize)
 5. Run the following PowerShell commands:
-"Set-ExecutionPolicy -ExecutionPolicy RemoteSigned"
+"Set-ExecutionPolicy -ExecutionPolicy Unrestricted"
 ".\Win10_VirtualDesktop_Optimize.ps1 -WindowsVersion 2004 -Verbose
 6. When complete, you should see a prompt to restart.  You do not have to restart right away.
 

@@ -12,12 +12,6 @@
     "Description": "Paint 3D"
   },
   {
-    "AppxPackage": "Microsoft.BingWeather",
-    "VDIState": "Disabled",
-    "URL": "https://www.microsoft.com/en-us/p/msn-weather/9wzdncrfj3q2",
-    "Description": "MSN Weather app"
-  },
-  {
     "AppxPackage": "Microsoft.GetHelp",
     "VDIState": "Disabled",
     "URL": "https://docs.microsoft.com/en-us/windows-hardware/customize/desktop/customize-get-help-app",
@@ -84,22 +78,10 @@
     "Description": "(Microsoft Pay) for Edge browswer on certain devices"
   },
   {
-    "AppxPackage": "Microsoft.Windows.Photos",
-    "VDIState": "Disabled",
-    "URL": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4",
-    "Description": "Photo and video editor"
-  },
-  {
     "AppxPackage": "Microsoft.WindowsAlarms",
     "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/windows-alarms-clock/9wzdncrfj3pr",
     "Description": "A combination app, of alarm clock, world clock, timer, and stopwatch."
-  },
-  {
-    "AppxPackage": "Microsoft.WindowsCalculator",
-    "VDIState": "Disabled",
-    "URL": "https://www.microsoft.com/en-us/p/windows-calculator/9wzdncrfhvn5",
-    "Description": "Microsoft Calculator app"
   },
   {
     "AppxPackage": "Microsoft.WindowsCamera",
